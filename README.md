@@ -2,7 +2,7 @@
 
 ![R](https://img.shields.io/badge/Language-R-blue) ![Algorithm](https://img.shields.io/badge/Algorithm-Greedy-green) ![Domain](https://img.shields.io/badge/Domain-Logistics-orange)
 
-> **⚠️ Note:** This repository serves as a **technical case study** for a project developed during my client. Due to company confidentiality agreements, the source code and proprietary datasets are not shared. This document details the algorithmic logic and problem solving approach.
+> **⚠️ Note:** This repository serves as a **technical case study** for a project developed for my client. Due to company confidentiality agreements, the source code and proprietary datasets are not shared. This document details the algorithmic logic and problem solving approach.
 
 ## 🎯 The Problem
 In a high volume shoe warehouse, inventory is stored in **Master Cartons** (Large Boxes). Each master carton contains a mixed or uniform assortment of shoes.
